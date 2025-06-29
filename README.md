@@ -49,5 +49,5 @@ Built with Bootstrap 5, custom animations, and modern design — LUNVIOR blends 
 
 ---
 
-## 📁 Folder Structure
+
 
